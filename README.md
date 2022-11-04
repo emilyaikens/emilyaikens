@@ -6,7 +6,7 @@ I am a full-stack developer with a background in biological sciences and design.
 
 ## Goals
 
-My devs skills are largely in web-based apps but I'm very interested in machine learning. I hope to steer my education in that direction and eventually enter the machine learning/AI field!
+My devs skills are largely based in web-based apps but I'm very interested in machine learning. I hope to steer my education in that direction and eventually enter the machine learning/AI field! I would love to find a career where I can use integrate computer science with my biology background. I'm fascinated by the environmental implications of machine learning/AI in the fisheries and oceanographic fields. 
 
 ## Education
 

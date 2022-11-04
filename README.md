@@ -13,11 +13,14 @@ My devs skills are largely in web-based apps but I'm very interested in machine 
   ### Harvard
   CS50 Course (2022)
 
-  ## General Assembly 
+  ### General Assembly 
   Software Engineering Immersive Program (2022)
 
-  ## University of British Columbia 
+  ### University of British Columbia 
   Bachelors of Science - Biology (2015)
+  
+  ### Berkeley High School
+  Diploma (2009)
 
 ## Contact
 
